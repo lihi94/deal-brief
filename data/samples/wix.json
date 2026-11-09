@@ -1,0 +1,1245 @@
+{
+  "memo": {
+    "id": "wix-2026-11-09-f0865032",
+    "track": "public",
+    "subject": "Wix.com Ltd.",
+    "ticker": "WIX",
+    "generatedAt": "2026-11-09T15:02:32.509Z",
+    "stance": "Watch",
+    "conviction": "high",
+    "stanceRationale": "The business is identifiable and the blocking facts are measured, so this is Watch rather than a data gap. Attractive is refused because: Operating margin for the year ended 31 Dec 2025 is 0.09%, below the 8.0% Attractive floor. Book equity at 31 Dec 2025 is -$366.0 million. One failed gate is enough. The rubric does not average a strong gross margin or a low multiple back into Attractive.",
+    "drivers": [
+      "Operating margin for the year ended 31 Dec 2025 is 0.09%, below the 8.0% Attractive floor.",
+      "Book equity at 31 Dec 2025 is -$366.0 million."
+    ],
+    "sections": [
+      {
+        "id": "snapshot",
+        "heading": "Snapshot",
+        "paragraphs": [
+          "Every populated cell below is copied from a fetched source. Anything the source pack does not contain is Unknown. Sell-side targets and recommendation strings are ignored.",
+          "The quote and filing requests that this memo relies on returned data."
+        ],
+        "table": {
+          "caption": "Snapshot. Empty means Unknown, not zero.",
+          "columns": [
+            "Field",
+            "Value",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Company",
+              "Wix.com Ltd.",
+              "Yahoo Finance or SEC submissions"
+            ],
+            [
+              "Ticker",
+              "WIX",
+              "Query / SEC company tickers"
+            ],
+            [
+              "Exchange",
+              "NasdaqGS",
+              "Yahoo Finance or SEC submissions"
+            ],
+            [
+              "Sector",
+              "Technology",
+              "Yahoo Finance profile"
+            ],
+            [
+              "Industry",
+              "Software - Infrastructure",
+              "Yahoo Finance profile"
+            ],
+            [
+              "SIC",
+              "7370 Services-Computer Programming, Data Processing, Etc.",
+              "SEC submissions"
+            ],
+            [
+              "Last price",
+              "$76.16 USD",
+              "Yahoo Finance"
+            ],
+            [
+              "Date of price",
+              "9 Nov 2026, 10:02 America/New_York",
+              "Yahoo Finance regularMarketTime"
+            ],
+            [
+              "Market cap",
+              "$3,187,049,472 ($3.19 billion)",
+              "Yahoo Finance quoteSummary"
+            ],
+            [
+              "Employees",
+              "4,371",
+              "Yahoo Finance profile, not a headcount we counted"
+            ],
+            [
+              "Latest fiscal year used",
+              "Year ended 31 Dec 2025",
+              "20-F, filed 5 Mar 2026"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "business",
+        "heading": "Business",
+        "paragraphs": [
+          "Wix.com Ltd. operates a cloud-based web development platform for registered users and creators in the United States, Europe, Israel, and internationally. (Yahoo Finance company profile.)",
+          "That paragraph is a profile, not diligence. It tells me the reported line of business. It does not tell me whether the economics clear the rubric."
+        ]
+      },
+      {
+        "id": "thesis",
+        "heading": "Investment thesis",
+        "paragraphs": [
+          "These points use only figures and descriptions in the source pack, plus the written rubric. They are not a forecast."
+        ],
+        "numbered": [
+          "For the year ended 31 Dec 2025, revenue was $1,993,044,000 ($1.99 billion) and operating margin was 0.09%. Gross margin was 68.1%. A year earlier, the year ended 31 Dec 2024, operating margin was 5.7%. Source: SEC 20-F, concept Revenues, filed 5 Mar 2026.",
+          "Operating cash flow for the year ended 31 Dec 2025 was $582,858,000 ($582.9 million). Cash generation shows up on the cash flow statement, which is a separate fact from operating margin.",
+          "Market cap of $3,187,049,472 ($3.19 billion) (9 Nov 2026, 10:02 America/New_York) divided by revenue for the year ended 31 Dec 2025 is 1.60×. The Attractive ceiling in the rubric is 15× last-fiscal revenue. This is not a DCF.",
+          "Book equity at 31 Dec 2025 was -$366,002,000 (-$366.0 million) on Form 20-F. Negative book equity blocks Attractive on its own. I am not guessing why the equity account is negative."
+        ]
+      },
+      {
+        "id": "change-mind",
+        "heading": "What would change my mind",
+        "paragraphs": [
+          "I would call this Attractive only when every gate is true at the same time: operating margin at least 8.0%, positive book equity, operating cash flow that is not negative when the filing reports it, and market cap at or below 15× last-fiscal revenue. Clearing one gate does not offset a failed one."
+        ],
+        "numbered": [
+          "The latest fiscal operating margin is 0.09%. It has to print at or above 8.0% before this gate opens.",
+          "Book equity is -$366.0 million. Attractive requires a positive equity account.",
+          "User commentary and sell-side targets would not change this. They are not in the source pack."
+        ]
+      },
+      {
+        "id": "financials",
+        "heading": "Financial highlights",
+        "paragraphs": [
+          "Annual figures are from SEC company facts, limited to full-year 10-K, 20-F, or 40-F facts. Margins are calculated from those rows and labeled as calculated. A cell is Unknown when that concept was not in the filing facts for that year.",
+          "Filing index for the latest revenue fact: https://www.sec.gov/Archives/edgar/data/1576789/000162828026015222/0001628280-26-015222-index.html."
+        ],
+        "table": {
+          "caption": "Fiscal year facts from SEC company facts. Not a forecast.",
+          "columns": [
+            "Line",
+            "Year ended 31 Dec 2023",
+            "Year ended 31 Dec 2024",
+            "Year ended 31 Dec 2025"
+          ],
+          "rows": [
+            [
+              "Revenue",
+              "$1,561,665,000",
+              "$1,760,650,000",
+              "$1,993,044,000"
+            ],
+            [
+              "Gross profit",
+              "$1,049,137,000",
+              "$1,196,015,000",
+              "$1,356,691,000"
+            ],
+            [
+              "Operating income",
+              "-$24,380,000",
+              "$100,141,000",
+              "$1,752,000"
+            ],
+            [
+              "Net income",
+              "$33,137,000",
+              "$138,322,000",
+              "$50,646,000"
+            ],
+            [
+              "Operating cash flow",
+              "$248,246,000",
+              "$497,415,000",
+              "$582,858,000"
+            ],
+            [
+              "Stockholders' equity",
+              "-$54,485,000",
+              "-$78,786,000",
+              "-$366,002,000"
+            ],
+            [
+              "Operating margin (calculated)",
+              "-1.6%",
+              "5.7%",
+              "0.09%"
+            ],
+            [
+              "Gross margin (calculated)",
+              "67.2%",
+              "67.9%",
+              "68.1%"
+            ]
+          ]
+        },
+        "footer": [
+          "Trailing quote statistics from Yahoo Finance, which are not the fiscal-year rows above and are not a forecast: trailing revenue $2,133,692,032 ($2.13 billion); trailing gross margin 66.6%; trailing operating margin -5.6%; trailing profit margin -8.2%; trailing operating cash flow $421,121,984 ($421.1 million); trailing free cash flow $442,399,136 ($442.4 million); cash $960,785,024 ($960.8 million); total debt $2,038,658,944 ($2.04 billion); trailing EPS -3.43 USD. Yahoo’s most recent quarter date on the statistic is 30 Jun 2026."
+        ]
+      },
+      {
+        "id": "valuation",
+        "heading": "Valuation context",
+        "paragraphs": [
+          "Market cap $3,187,049,472 ($3.19 billion) divided by revenue of $1,993,044,000 ($1.99 billion) for the year ended 31 Dec 2025 is 1.60×. The rubric’s Attractive ceiling is 15×. This print is within that ceiling. The other gates still have to clear.",
+          "Yahoo Finance also reports enterprise value of $4,347,087,872 ($4.35 billion). Divided by the same fiscal revenue, that is 2.18×. Enterprise value is a quote statistic, not a cash-flow model.",
+          "Price to book is not used. Book equity is negative, so a book multiple would not mean what it means for a company with positive equity.",
+          "No discounted-cash-flow value is computed. A missing forecast stays missing."
+        ]
+      },
+      {
+        "id": "risks",
+        "heading": "Key risks",
+        "paragraphs": [
+          "Recent headlines:"
+        ],
+        "bullets": [
+          "Operating margin for the year ended 31 Dec 2025 is 0.09%, below the 8.0% Attractive floor.",
+          "Book equity at 31 Dec 2025 is -$366.0 million.",
+          "Operating margin moved from 5.7% to 0.09% over the two latest fiscal years in the source pack. The rubric uses the latest year.",
+          "The fiscal operating margin (0.09%) and Yahoo’s trailing operating margin (-5.6%) do not have the same sign. The rubric uses the fiscal year. The trailing figure is still part of the risk, because the year in progress may not look like the last annual report.",
+          "The annual report is a 20-F, so this issuer files as a foreign private issuer. The numbers are only as current as that form.",
+          "Headlines below are titles only. Article bodies were not fetched, and a headline is not a finding.",
+          "This is a screen of reported figures. It is not a view on management, competitive position, or the next quarter.",
+          "Insights Into Wix.com (WIX) Q3: Wall Street Projections for Key Metrics (Thu, 05 Nov 2026 13:15:08 +0000). https://finance.yahoo.com/markets/stocks/articles/insights-wix-com-wix-q3-131508651.html?.tsrc=rss",
+          "Investors Heavily Search Wix.com Ltd. (WIX): Here is What You Need to Know (Wed, 04 Nov 2026 13:00:02 +0000). https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-wix-com-130002976.html?.tsrc=rss",
+          "Analysts Estimate Wix.com (WIX) to Report a Decline in Earnings: What to Look Out for (Tue, 03 Nov 2026 14:00:03 +0000). https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-wix-com-wix-140003083.html?.tsrc=rss",
+          "Shopify Plunges 17% as GMV and Subscription Revenue Miss Estimates; Wix Drops 3%, Etsy Dips (Tue, 03 Nov 2026 13:47:37 +0000). https://247wallst.com/investing/2026/11/03/shopify-plunges-17-as-gmv-and-subscription-revenue-miss-estimates-wix-drops-3-etsy-dips/?.tsrc=rss"
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "heading": "Bottom line",
+        "paragraphs": [
+          "Watch, high conviction. Wix.com Ltd. has a real gross margin (68.1%) and positive operating cash flow ($582,858,000 ($582.9 million)). I still refuse Attractive. The latest fiscal operating margin is 0.09%, and book equity is -$366,002,000 (-$366.0 million). Either fact is enough under the rubric."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "name": "SEC company tickers",
+        "url": "https://www.sec.gov/files/company_tickers.json",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "Yahoo Finance quoteSummary",
+        "url": "https://query2.finance.yahoo.com/v10/finance/quoteSummary/WIX?modules=price,summaryProfile,financialData,defaultKeyStatistics",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "SEC EDGAR submissions",
+        "url": "https://data.sec.gov/submissions/CIK0001576789.json",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "SEC EDGAR company facts",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001576789.json",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "Yahoo Finance headlines",
+        "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=WIX&region=US&lang=en-US",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "Google News RSS",
+        "url": "https://news.google.com/rss/search?q=%22Wix.com%20Ltd.%22%20OR%20WIX&hl=en-US&gl=US&ceid=US:en",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "SEC filing index",
+        "url": "https://www.sec.gov/Archives/edgar/data/1576789/000162828026015222/0001628280-26-015222-index.html",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      }
+    ],
+    "generationMode": "sample",
+    "generationNote": "Checked-in sample captured from the cited sources. Not a live fetch. The stance comes from the written rubric, not from a model.",
+    "disclaimer": "Deal Brief is a portfolio screening tool, not an investment adviser. A memo is not a recommendation to buy, sell, or hold any security. Figures are only as good as the cited sources, and missing data stays Unknown.",
+    "markdown": "# Deal Brief — Wix.com Ltd. (WIX)\n\nPublic-company screening memo · 9 Nov 2026\n\n**Stance: Watch** · conviction high\n\nThe business is identifiable and the blocking facts are measured, so this is Watch rather than a data gap. Attractive is refused because: Operating margin for the year ended 31 Dec 2025 is 0.09%, below the 8.0% Attractive floor. Book equity at 31 Dec 2025 is -$366.0 million. One failed gate is enough. The rubric does not average a strong gross margin or a low multiple back into Attractive.\n\n_Checked-in sample captured from the cited sources. Not a live fetch. The stance comes from the written rubric, not from a model._\n\n## Snapshot\n\nEvery populated cell below is copied from a fetched source. Anything the source pack does not contain is Unknown. Sell-side targets and recommendation strings are ignored.\n\nThe quote and filing requests that this memo relies on returned data.\n\n_Snapshot. Empty means Unknown, not zero._\n\n| Field | Value | Source |\n| --- | --- | --- |\n| Company | Wix.com Ltd. | Yahoo Finance or SEC submissions |\n| Ticker | WIX | Query / SEC company tickers |\n| Exchange | NasdaqGS | Yahoo Finance or SEC submissions |\n| Sector | Technology | Yahoo Finance profile |\n| Industry | Software - Infrastructure | Yahoo Finance profile |\n| SIC | 7370 Services-Computer Programming, Data Processing, Etc. | SEC submissions |\n| Last price | $76.16 USD | Yahoo Finance |\n| Date of price | 9 Nov 2026, 10:02 America/New_York | Yahoo Finance regularMarketTime |\n| Market cap | $3,187,049,472 ($3.19 billion) | Yahoo Finance quoteSummary |\n| Employees | 4,371 | Yahoo Finance profile, not a headcount we counted |\n| Latest fiscal year used | Year ended 31 Dec 2025 | 20-F, filed 5 Mar 2026 |\n\n## Business\n\nWix.com Ltd. operates a cloud-based web development platform for registered users and creators in the United States, Europe, Israel, and internationally. (Yahoo Finance company profile.)\n\nThat paragraph is a profile, not diligence. It tells me the reported line of business. It does not tell me whether the economics clear the rubric.\n\n## Investment thesis\n\nThese points use only figures and descriptions in the source pack, plus the written rubric. They are not a forecast.\n\n1. For the year ended 31 Dec 2025, revenue was $1,993,044,000 ($1.99 billion) and operating margin was 0.09%. Gross margin was 68.1%. A year earlier, the year ended 31 Dec 2024, operating margin was 5.7%. Source: SEC 20-F, concept Revenues, filed 5 Mar 2026.\n\n2. Operating cash flow for the year ended 31 Dec 2025 was $582,858,000 ($582.9 million). Cash generation shows up on the cash flow statement, which is a separate fact from operating margin.\n\n3. Market cap of $3,187,049,472 ($3.19 billion) (9 Nov 2026, 10:02 America/New_York) divided by revenue for the year ended 31 Dec 2025 is 1.60×. The Attractive ceiling in the rubric is 15× last-fiscal revenue. This is not a DCF.\n\n4. Book equity at 31 Dec 2025 was -$366,002,000 (-$366.0 million) on Form 20-F. Negative book equity blocks Attractive on its own. I am not guessing why the equity account is negative.\n\n## What would change my mind\n\nI would call this Attractive only when every gate is true at the same time: operating margin at least 8.0%, positive book equity, operating cash flow that is not negative when the filing reports it, and market cap at or below 15× last-fiscal revenue. Clearing one gate does not offset a failed one.\n\n1. The latest fiscal operating margin is 0.09%. It has to print at or above 8.0% before this gate opens.\n\n2. Book equity is -$366.0 million. Attractive requires a positive equity account.\n\n3. User commentary and sell-side targets would not change this. They are not in the source pack.\n\n## Financial highlights\n\nAnnual figures are from SEC company facts, limited to full-year 10-K, 20-F, or 40-F facts. Margins are calculated from those rows and labeled as calculated. A cell is Unknown when that concept was not in the filing facts for that year.\n\nFiling index for the latest revenue fact: https://www.sec.gov/Archives/edgar/data/1576789/000162828026015222/0001628280-26-015222-index.html.\n\n_Fiscal year facts from SEC company facts. Not a forecast._\n\n| Line | Year ended 31 Dec 2023 | Year ended 31 Dec 2024 | Year ended 31 Dec 2025 |\n| --- | --- | --- | --- |\n| Revenue | $1,561,665,000 | $1,760,650,000 | $1,993,044,000 |\n| Gross profit | $1,049,137,000 | $1,196,015,000 | $1,356,691,000 |\n| Operating income | -$24,380,000 | $100,141,000 | $1,752,000 |\n| Net income | $33,137,000 | $138,322,000 | $50,646,000 |\n| Operating cash flow | $248,246,000 | $497,415,000 | $582,858,000 |\n| Stockholders' equity | -$54,485,000 | -$78,786,000 | -$366,002,000 |\n| Operating margin (calculated) | -1.6% | 5.7% | 0.09% |\n| Gross margin (calculated) | 67.2% | 67.9% | 68.1% |\n\nTrailing quote statistics from Yahoo Finance, which are not the fiscal-year rows above and are not a forecast: trailing revenue $2,133,692,032 ($2.13 billion); trailing gross margin 66.6%; trailing operating margin -5.6%; trailing profit margin -8.2%; trailing operating cash flow $421,121,984 ($421.1 million); trailing free cash flow $442,399,136 ($442.4 million); cash $960,785,024 ($960.8 million); total debt $2,038,658,944 ($2.04 billion); trailing EPS -3.43 USD. Yahoo’s most recent quarter date on the statistic is 30 Jun 2026.\n\n## Valuation context\n\nMarket cap $3,187,049,472 ($3.19 billion) divided by revenue of $1,993,044,000 ($1.99 billion) for the year ended 31 Dec 2025 is 1.60×. The rubric’s Attractive ceiling is 15×. This print is within that ceiling. The other gates still have to clear.\n\nYahoo Finance also reports enterprise value of $4,347,087,872 ($4.35 billion). Divided by the same fiscal revenue, that is 2.18×. Enterprise value is a quote statistic, not a cash-flow model.\n\nPrice to book is not used. Book equity is negative, so a book multiple would not mean what it means for a company with positive equity.\n\nNo discounted-cash-flow value is computed. A missing forecast stays missing.\n\n## Key risks\n\nRecent headlines:\n\n- Operating margin for the year ended 31 Dec 2025 is 0.09%, below the 8.0% Attractive floor.\n- Book equity at 31 Dec 2025 is -$366.0 million.\n- Operating margin moved from 5.7% to 0.09% over the two latest fiscal years in the source pack. The rubric uses the latest year.\n- The fiscal operating margin (0.09%) and Yahoo’s trailing operating margin (-5.6%) do not have the same sign. The rubric uses the fiscal year. The trailing figure is still part of the risk, because the year in progress may not look like the last annual report.\n- The annual report is a 20-F, so this issuer files as a foreign private issuer. The numbers are only as current as that form.\n- Headlines below are titles only. Article bodies were not fetched, and a headline is not a finding.\n- This is a screen of reported figures. It is not a view on management, competitive position, or the next quarter.\n- Insights Into Wix.com (WIX) Q3: Wall Street Projections for Key Metrics (Thu, 05 Nov 2026 13:15:08 +0000). https://finance.yahoo.com/markets/stocks/articles/insights-wix-com-wix-q3-131508651.html?.tsrc=rss\n- Investors Heavily Search Wix.com Ltd. (WIX): Here is What You Need to Know (Wed, 04 Nov 2026 13:00:02 +0000). https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-wix-com-130002976.html?.tsrc=rss\n- Analysts Estimate Wix.com (WIX) to Report a Decline in Earnings: What to Look Out for (Tue, 03 Nov 2026 14:00:03 +0000). https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-wix-com-wix-140003083.html?.tsrc=rss\n- Shopify Plunges 17% as GMV and Subscription Revenue Miss Estimates; Wix Drops 3%, Etsy Dips (Tue, 03 Nov 2026 13:47:37 +0000). https://247wallst.com/investing/2026/11/03/shopify-plunges-17-as-gmv-and-subscription-revenue-miss-estimates-wix-drops-3-etsy-dips/?.tsrc=rss\n\n## Bottom line\n\nWatch, high conviction. Wix.com Ltd. has a real gross margin (68.1%) and positive operating cash flow ($582,858,000 ($582.9 million)). I still refuse Attractive. The latest fiscal operating margin is 0.09%, and book equity is -$366,002,000 (-$366.0 million). Either fact is enough under the rubric.\n\n## Sources\n\n- SEC company tickers: https://www.sec.gov/files/company_tickers.json (retrieved 2026-11-09T15:02:32.509Z)\n- Yahoo Finance quoteSummary: https://query2.finance.yahoo.com/v10/finance/quoteSummary/WIX?modules=price,summaryProfile,financialData,defaultKeyStatistics (retrieved 2026-11-09T15:02:32.509Z)\n- SEC EDGAR submissions: https://data.sec.gov/submissions/CIK0001576789.json (retrieved 2026-11-09T15:02:32.509Z)\n- SEC EDGAR company facts: https://data.sec.gov/api/xbrl/companyfacts/CIK0001576789.json (retrieved 2026-11-09T15:02:32.509Z)\n- Yahoo Finance headlines: https://feeds.finance.yahoo.com/rss/2.0/headline?s=WIX&region=US&lang=en-US (retrieved 2026-11-09T15:02:32.509Z)\n- Google News RSS: https://news.google.com/rss/search?q=%22Wix.com%20Ltd.%22%20OR%20WIX&hl=en-US&gl=US&ceid=US:en (retrieved 2026-11-09T15:02:32.509Z)\n- SEC filing index: https://www.sec.gov/Archives/edgar/data/1576789/000162828026015222/0001628280-26-015222-index.html (retrieved 2026-11-09T15:02:32.509Z)\n\n## Disclaimer\n\nDeal Brief is a portfolio screening tool, not an investment adviser. A memo is not a recommendation to buy, sell, or hold any security. Figures are only as good as the cited sources, and missing data stays Unknown.\n"
+  },
+  "context": {
+    "track": "public",
+    "query": "WIX",
+    "resolved": true,
+    "companyName": "Wix.com Ltd.",
+    "ticker": "WIX",
+    "cik": "0001576789",
+    "exchange": "NasdaqGS",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "sic": "7370 Services-Computer Programming, Data Processing, Etc.",
+    "website": "https://www.wix.com",
+    "businessSummary": "Wix.com Ltd. operates a cloud-based web development platform for registered users and creators in the United States, Europe, Israel, and internationally. The company offers Wix Editor, a drag-and-drop visual development and website editing environment platform and Wix Studio, a unified website development platform that enables the creation of advanced websites. It also provides Velo by Wix, a full-stack, no-code/low-code development environment to create content-rich websites and web applications; Wix App Market that offers registered users various free and paid web applications for building, growing, and managing their businesses; Wix Marketplace, which connects users seeking help in creating and managing a website; Wix App, which allows users to manage their websites and Wix operating systems on the go and run their businesses; Spaces by Wix, a mobile app that serves as an interface between site owners and customers; and Wix Customer Care, which provides support and guidance to users throughout the Wix platform. In addition, the company offers Payments by Wix that enables users to accept payments for goods and services both online and in-person; Wix Logo Maker that generates a customizable logo using artificial intelligence; Wix POS, an end-to-end omnichannel solution for online and in-person sales; Branded App by Wix, a native mobile app builder; Base44, an AI-powered platform that builds fully functioning apps; Wixel, an AI-powered visual design platform; Wix Stores; Wix Restaurants; Wix Events; Wix Fitness; Wix Hotels; Wix Music; Wix Showcase; Wix Video; Wix Blog and Wix Forms; Wix Groups; Wix Proposals; Wix Donations; Wix AI Website Builder; Wix AI Text Creator; Wix AI Image Generator; Wix Premium Subscriptions; Email Marketing Subscriptions; Paid Ad Campaigns; Domains; Google Workspace; Gift Cards; and Wix Commerce Solutions, a commerce platform for business owners. Wix.com Ltd. was incorporated in 2006 and is headquartered in Tel Aviv, Israel.",
+    "employees": 4371,
+    "currency": "USD",
+    "price": 76.155,
+    "priceTime": "2026-11-09T15:02:25.000Z",
+    "marketCap": 3187049472,
+    "enterpriseValue": 4347087872,
+    "sharesOutstanding": 41849511,
+    "bookValuePerShare": -40.519,
+    "fiscal": {
+      "revenue": [
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2011-12-31",
+          "filed": "2014-03-20",
+          "form": "20-F",
+          "value": 24600000,
+          "accn": "0001047469-14-002723",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2012-12-31",
+          "filed": "2015-03-31",
+          "form": "20-F",
+          "value": 43676000,
+          "accn": "0001178913-15-001113",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2013-12-31",
+          "filed": "2016-04-13",
+          "form": "20-F",
+          "value": 80473000,
+          "accn": "0001178913-16-005065",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2014-12-31",
+          "filed": "2017-03-28",
+          "form": "20-F",
+          "value": 141841000,
+          "accn": "0001178913-17-000947",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2015-12-31",
+          "filed": "2018-03-29",
+          "form": "20-F",
+          "value": 203518000,
+          "accn": "0001178913-18-001017",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2016-12-31",
+          "filed": "2019-04-09",
+          "form": "20-F",
+          "value": 290103000,
+          "accn": "0001178913-19-001094",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2017-12-31",
+          "filed": "2020-04-02",
+          "form": "20-F",
+          "value": 425636000,
+          "accn": "0001178913-20-001005",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2018-12-31",
+          "filed": "2021-03-25",
+          "form": "20-F",
+          "value": 603704000,
+          "accn": "0001178913-21-001179",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2019-12-31",
+          "filed": "2022-04-01",
+          "form": "20-F",
+          "value": 757667000,
+          "accn": "0001178913-22-001359",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2020-12-31",
+          "filed": "2023-03-30",
+          "form": "20-F",
+          "value": 984367000,
+          "accn": "0001576789-23-000025",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2021-12-31",
+          "filed": "2024-03-22",
+          "form": "20-F",
+          "value": 1269657000,
+          "accn": "0001576789-24-000011",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2022-12-31",
+          "filed": "2025-03-21",
+          "form": "20-F",
+          "value": 1387666000,
+          "accn": "0001628280-25-014212",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2023-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1561665000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2024-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1760650000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2025-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1993044000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        }
+      ],
+      "grossProfit": [
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2011-12-31",
+          "filed": "2014-03-20",
+          "form": "20-F",
+          "value": 19310000,
+          "accn": "0001047469-14-002723",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2012-12-31",
+          "filed": "2015-03-31",
+          "form": "20-F",
+          "value": 34443000,
+          "accn": "0001178913-15-001113",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2013-12-31",
+          "filed": "2016-04-13",
+          "form": "20-F",
+          "value": 65216000,
+          "accn": "0001178913-16-005065",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2014-12-31",
+          "filed": "2017-03-28",
+          "form": "20-F",
+          "value": 115733000,
+          "accn": "0001178913-17-000947",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2015-12-31",
+          "filed": "2018-03-29",
+          "form": "20-F",
+          "value": 168548000,
+          "accn": "0001178913-18-001017",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2016-12-31",
+          "filed": "2019-04-09",
+          "form": "20-F",
+          "value": 244816000,
+          "accn": "0001178913-19-001094",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2017-12-31",
+          "filed": "2020-04-02",
+          "form": "20-F",
+          "value": 356245000,
+          "accn": "0001178913-20-001005",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2018-12-31",
+          "filed": "2021-03-25",
+          "form": "20-F",
+          "value": 476757000,
+          "accn": "0001178913-21-001179",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2019-12-31",
+          "filed": "2022-04-01",
+          "form": "20-F",
+          "value": 562847000,
+          "accn": "0001178913-22-001359",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2020-12-31",
+          "filed": "2023-03-30",
+          "form": "20-F",
+          "value": 671348000,
+          "accn": "0001576789-23-000025",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2021-12-31",
+          "filed": "2024-03-22",
+          "form": "20-F",
+          "value": 781078000,
+          "accn": "0001576789-24-000011",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2022-12-31",
+          "filed": "2025-03-21",
+          "form": "20-F",
+          "value": 861439000,
+          "accn": "0001628280-25-014212",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2023-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1049137000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2024-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1196015000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2025-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1356691000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        }
+      ],
+      "operatingIncome": [
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2011-12-31",
+          "filed": "2014-03-20",
+          "form": "20-F",
+          "value": -22360000,
+          "accn": "0001047469-14-002723",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2012-12-31",
+          "filed": "2015-03-31",
+          "form": "20-F",
+          "value": -14961000,
+          "accn": "0001178913-15-001113",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2013-12-31",
+          "filed": "2016-04-13",
+          "form": "20-F",
+          "value": -26527000,
+          "accn": "0001178913-16-005065",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2014-12-31",
+          "filed": "2017-03-28",
+          "form": "20-F",
+          "value": -55644000,
+          "accn": "0001178913-17-000947",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2015-12-31",
+          "filed": "2018-03-29",
+          "form": "20-F",
+          "value": -48635000,
+          "accn": "0001178913-18-001017",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2016-12-31",
+          "filed": "2019-04-09",
+          "form": "20-F",
+          "value": -44032000,
+          "accn": "0001178913-19-001094",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2017-12-31",
+          "filed": "2020-04-02",
+          "form": "20-F",
+          "value": -50011000,
+          "accn": "0001178913-20-001005",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2018-12-31",
+          "filed": "2021-03-25",
+          "form": "20-F",
+          "value": -30630000,
+          "accn": "0001178913-21-001179",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2019-12-31",
+          "filed": "2022-04-01",
+          "form": "20-F",
+          "value": -81584000,
+          "accn": "0001178913-22-001359",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2020-12-31",
+          "filed": "2023-03-30",
+          "form": "20-F",
+          "value": -199055000,
+          "accn": "0001576789-23-000025",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2021-12-31",
+          "filed": "2024-03-22",
+          "form": "20-F",
+          "value": -325534000,
+          "accn": "0001576789-24-000011",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2022-12-31",
+          "filed": "2025-03-21",
+          "form": "20-F",
+          "value": -285353000,
+          "accn": "0001628280-25-014212",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2023-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": -24380000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2024-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 100141000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2025-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 1752000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        }
+      ],
+      "netIncome": [
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2011-12-31",
+          "filed": "2014-03-20",
+          "form": "20-F",
+          "value": -22740000,
+          "accn": "0001047469-14-002723",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2012-12-31",
+          "filed": "2015-03-31",
+          "form": "20-F",
+          "value": -14972000,
+          "accn": "0001178913-15-001113",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2013-12-31",
+          "filed": "2016-04-13",
+          "form": "20-F",
+          "value": -28720000,
+          "accn": "0001178913-16-005065",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2014-12-31",
+          "filed": "2017-03-28",
+          "form": "20-F",
+          "value": -56566000,
+          "accn": "0001178913-17-000947",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2015-12-31",
+          "filed": "2018-03-29",
+          "form": "20-F",
+          "value": -51334000,
+          "accn": "0001178913-18-001017",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2016-12-31",
+          "filed": "2019-04-09",
+          "form": "20-F",
+          "value": -46896000,
+          "accn": "0001178913-19-001094",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2017-12-31",
+          "filed": "2020-04-02",
+          "form": "20-F",
+          "value": -56273000,
+          "accn": "0001178913-20-001005",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2018-12-31",
+          "filed": "2021-03-25",
+          "form": "20-F",
+          "value": -37120000,
+          "accn": "0001178913-21-001179",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2019-12-31",
+          "filed": "2022-04-01",
+          "form": "20-F",
+          "value": -87748000,
+          "accn": "0001178913-22-001359",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2020-12-31",
+          "filed": "2023-03-30",
+          "form": "20-F",
+          "value": -166867000,
+          "accn": "0001576789-23-000025",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2021-12-31",
+          "filed": "2024-03-22",
+          "form": "20-F",
+          "value": -117209000,
+          "accn": "0001576789-24-000011",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2022-12-31",
+          "filed": "2025-03-21",
+          "form": "20-F",
+          "value": -424863000,
+          "accn": "0001628280-25-014212",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2023-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 33137000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2024-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 138322000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2025-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 50646000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        }
+      ],
+      "operatingCashFlow": [
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2015-12-31",
+          "filed": "2018-03-29",
+          "form": "20-F",
+          "value": 20876000,
+          "accn": "0001178913-18-001017",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2016-12-31",
+          "filed": "2019-04-09",
+          "form": "20-F",
+          "value": 40573000,
+          "accn": "0001178913-19-001094",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2017-12-31",
+          "filed": "2020-04-02",
+          "form": "20-F",
+          "value": 83052000,
+          "accn": "0001178913-20-001005",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2018-12-31",
+          "filed": "2021-03-25",
+          "form": "20-F",
+          "value": 115709000,
+          "accn": "0001178913-21-001179",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2019-12-31",
+          "filed": "2022-04-01",
+          "form": "20-F",
+          "value": 149564000,
+          "accn": "0001178913-22-001359",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2020-12-31",
+          "filed": "2023-03-30",
+          "form": "20-F",
+          "value": 148049000,
+          "accn": "0001576789-23-000025",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2021-12-31",
+          "filed": "2024-03-22",
+          "form": "20-F",
+          "value": 65685000,
+          "accn": "0001576789-24-000011",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2022-12-31",
+          "filed": "2025-03-21",
+          "form": "20-F",
+          "value": 37152000,
+          "accn": "0001628280-25-014212",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2023-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 248246000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2024-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 497415000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2025-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": 582858000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        }
+      ],
+      "equity": [
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2010-12-31",
+          "filed": "2014-03-20",
+          "form": "20-F",
+          "value": -16000,
+          "accn": "0001047469-14-002723",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2011-12-31",
+          "filed": "2015-03-31",
+          "form": "20-F",
+          "value": 3086000,
+          "accn": "0001178913-15-001113",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2012-12-31",
+          "filed": "2016-04-13",
+          "form": "20-F",
+          "value": -10571000,
+          "accn": "0001178913-16-005065",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2013-12-31",
+          "filed": "2017-03-28",
+          "form": "20-F",
+          "value": 62296000,
+          "accn": "0001178913-17-000947",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2014-12-31",
+          "filed": "2018-03-29",
+          "form": "20-F",
+          "value": 18650000,
+          "accn": "0001178913-18-001017",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2015-12-31",
+          "filed": "2019-04-09",
+          "form": "20-F",
+          "value": -3805000,
+          "accn": "0001178913-19-001094",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2016-12-31",
+          "filed": "2020-04-02",
+          "form": "20-F",
+          "value": -2469000,
+          "accn": "0001178913-20-001005",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2017-12-31",
+          "filed": "2021-03-25",
+          "form": "20-F",
+          "value": 11320000,
+          "accn": "0001178913-21-001179",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2018-12-31",
+          "filed": "2022-04-01",
+          "form": "20-F",
+          "value": 140795000,
+          "accn": "0001178913-22-001359",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2019-12-31",
+          "filed": "2023-03-30",
+          "form": "20-F",
+          "value": 194945000,
+          "accn": "0001576789-23-000025",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2020-12-31",
+          "filed": "2024-03-22",
+          "form": "20-F",
+          "value": 287191000,
+          "accn": "0001576789-24-000011",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2021-12-31",
+          "filed": "2025-03-21",
+          "form": "20-F",
+          "value": 145715000,
+          "accn": "0001628280-25-014212",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2022-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": -263242000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2023-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": -54485000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2024-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": -78786000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2025-12-31",
+          "filed": "2026-03-05",
+          "form": "20-F",
+          "value": -366002000,
+          "accn": "0001628280-26-015222",
+          "unit": "USD"
+        }
+      ]
+    },
+    "trailing": {
+      "revenue": 2133692032,
+      "grossMargin": 0.66637003,
+      "operatingMargin": -0.05624,
+      "profitMargin": -0.08185001,
+      "operatingCashFlow": 421121984,
+      "freeCashFlow": 442399136,
+      "totalCash": 960785024,
+      "totalDebt": 2038658944,
+      "trailingEps": -3.43,
+      "mostRecentQuarter": "2026-06-30"
+    },
+    "headlines": [
+      {
+        "title": "Insights Into Wix.com (WIX) Q3: Wall Street Projections for Key Metrics",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/insights-wix-com-wix-q3-131508651.html?.tsrc=rss",
+        "published": "Thu, 05 Nov 2026 13:15:08 +0000"
+      },
+      {
+        "title": "Investors Heavily Search Wix.com Ltd. (WIX): Here is What You Need to Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-wix-com-130002976.html?.tsrc=rss",
+        "published": "Wed, 04 Nov 2026 13:00:02 +0000"
+      },
+      {
+        "title": "Analysts Estimate Wix.com (WIX) to Report a Decline in Earnings: What to Look Out for",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-wix-com-wix-140003083.html?.tsrc=rss",
+        "published": "Tue, 03 Nov 2026 14:00:03 +0000"
+      },
+      {
+        "title": "Shopify Plunges 17% as GMV and Subscription Revenue Miss Estimates; Wix Drops 3%, Etsy Dips",
+        "url": "https://247wallst.com/investing/2026/11/03/shopify-plunges-17-as-gmv-and-subscription-revenue-miss-estimates-wix-drops-3-etsy-dips/?.tsrc=rss",
+        "published": "Tue, 03 Nov 2026 13:47:37 +0000"
+      }
+    ],
+    "errors": [],
+    "sources": [
+      {
+        "name": "SEC company tickers",
+        "url": "https://www.sec.gov/files/company_tickers.json",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "Yahoo Finance quoteSummary",
+        "url": "https://query2.finance.yahoo.com/v10/finance/quoteSummary/WIX?modules=price,summaryProfile,financialData,defaultKeyStatistics",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "SEC EDGAR submissions",
+        "url": "https://data.sec.gov/submissions/CIK0001576789.json",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "SEC EDGAR company facts",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001576789.json",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "Yahoo Finance headlines",
+        "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=WIX&region=US&lang=en-US",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      },
+      {
+        "name": "Google News RSS",
+        "url": "https://news.google.com/rss/search?q=%22Wix.com%20Ltd.%22%20OR%20WIX&hl=en-US&gl=US&ceid=US:en",
+        "retrievedAt": "2026-11-09T15:02:32.509Z"
+      }
+    ]
+  }
+}

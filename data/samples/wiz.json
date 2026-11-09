@@ -1,0 +1,176 @@
+{
+  "memo": {
+    "id": "wiz-2026-11-09-671c6079",
+    "track": "startup",
+    "subject": "Wiz",
+    "generatedAt": "2026-11-09T15:02:34.008Z",
+    "stance": "Diligence further",
+    "conviction": "medium",
+    "stanceRationale": "The site is specific enough to say what the company claims to sell, and nothing sourced here shows that the product is gone. That clears the bar for another conversation. It does not clear a venture underwriting: funding, headcount, revenue, and valuation are Unknown unless a source in this pack states them.",
+    "drivers": [
+      "A public product description was fetched from the company site. Marketing claims stay labeled as claims."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "heading": "What they do and why it might matter now",
+        "paragraphs": [
+          "From the fetched site: Wiz connects code, cloud, and runtime into one agentic cybersecurity platform. Prevent risk, detect threats, and start secure – across every cloud and AI layer. Wiz connects code, cloud, and runtime into a unified context graph. Context enables teams to use AI to fix exploitable risks at the source, stop attacks in real-time, and start secure from the IDE – automatically and accurately.",
+          "Why it might matter is only as strong as that description. Independent evidence that the problem is urgent, or that buyers are switching, is not in this pack."
+        ],
+        "quotes": [
+          {
+            "text": "Trusted by more than 65% of Fortune 100 companies",
+            "note": "Company claim, quoted from the site. Not independently verified."
+          }
+        ]
+      },
+      {
+        "id": "market",
+        "heading": "Market / why now",
+        "paragraphs": [
+          "Market size, growth, and share are Unknown. This pack has no third-party market study, and the company site is not treated as one.",
+          "Independent press coverage in this pull is thin. The headlines that came back are from the company site itself, so they are not outside coverage.",
+          "Recent headlines:"
+        ],
+        "bullets": [
+          "wiz.io — PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io (Wed, 21 Oct 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
+          "wiz.io — “Black October” for AI Developer Platforms - wiz.io (Fri, 30 Oct 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMickFVX3lxTE5Kb3h4anBjMUtJWnU4R0JiOTRxZUIwUDhTLU9idzNsbldBVHNrTDN0WjA5eVpsZzJ4ZlRBVUZ2d0J0SU5LRWZzT1o0LS0yNlo0V2hBbXJYNUFMNXVWbm00VDZXTURfWE1QVDdBZDRCaVd5dw?oc=5",
+          "wiz.io — Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability - wiz.io (Sun, 25 Oct 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMiakFVX3lxTE05WEEtSGg3bUQ5dXJoNjJQSE55QlZueVUzQnJlbjVQMENOM2FzUFMxUnNHckVqMnVaSG9XNnNVYms0cnlzVFo4VC1ac1FXREVrUVVTZTNiMDVYaExiazh3MVM2WVNoZ1F6dXc?oc=5",
+          "wiz.io — Scan for Good: Using AI to discover and fix high-priority exposures across public services and critical infrastructure - wiz.io (Thu, 24 Sep 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMia0FVX3lxTE84OVNtYmw3d2V4UnZMODlpRzZIWV90M3JUSXNOZmc5aG5ITDdhSUlkMWNJS2pQSndBQklDZWp1bzVwbmRnUmVkMnF3b3doNUQ2NU5HeHJKcEdPbEZvbXRlUjVGOEp1RTh6YWdj?oc=5"
+        ]
+      },
+      {
+        "id": "traction",
+        "heading": "Traction, team, funding",
+        "paragraphs": [
+          "Only sourced items would be filled in. Nothing below is inferred from the company name or from user notes."
+        ],
+        "bullets": [
+          "Traction that the site itself claims is quoted in the first section and labeled as a company claim. It is not booked here as revenue, logos verified by us, or retention.",
+          "Team: Unknown.",
+          "Funding: Unknown. Headline dollar figures, if any appear below, are not recorded as a round.",
+          "Headcount: Unknown.",
+          "Valuation: Unknown."
+        ]
+      },
+      {
+        "id": "underwrite",
+        "heading": "How we'd underwrite",
+        "paragraphs": [
+          "Diligence further means the product description is specific enough to keep reading. It does not mean the investment works. These are the statements that would have to be true, and none of them is established by this pack:"
+        ],
+        "numbered": [
+          "A buyer pays for the product as a system they keep, not as a pilot that expires. Retention and expansion are Unknown here.",
+          "The company’s books, which we do not have, show a gross margin and a cash pattern that can support the story the site tells.",
+          "The competitive alternative is something a customer would actually replace. The site’s comparison, if it makes one, is a claim.",
+          "Any price for the round is on a document we have not seen. Until then the price is Unknown, and Unknown is not a bargain."
+        ]
+      },
+      {
+        "id": "diligence",
+        "heading": "Diligence questions / key risks",
+        "paragraphs": [
+          "Questions, not findings. Where the pack is silent, the answer is Unknown."
+        ],
+        "bullets": [
+          "What is revenue, growth, and the definition of that revenue, from the company’s own books?",
+          "Which of the site’s customer claims are dollars, and which are logos or marketing copy?",
+          "Who are the founders and the operating owners? Team is Unknown in this pack.",
+          "What were the last round’s amount, date, and price? Funding and valuation are Unknown unless a primary source states them.",
+          "What would make the product unnecessary if a platform vendor bundled the same control?",
+          "Independent press coverage in this pull is thin. The headlines that came back are from the company site itself, so they are not outside coverage.",
+          "User notes are not answers to these questions."
+        ]
+      },
+      {
+        "id": "unknowns",
+        "heading": "Unknowns",
+        "paragraphs": [
+          "These items stay Unknown on purpose. A headline that mentions a price or a round is not promoted into this list. User notes are not promoted into this list."
+        ],
+        "bullets": [
+          "Revenue, growth rate, and retention: Unknown.",
+          "Funding rounds, investors, and amounts: Unknown.",
+          "Valuation: Unknown.",
+          "Headcount: Unknown.",
+          "Ownership and cap table: Unknown.",
+          "Gross margin, burn, and runway: Unknown."
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "heading": "Bottom line",
+        "paragraphs": [
+          "Diligence further, medium conviction. The site is specific enough to say what the company claims to sell, and nothing sourced here shows that the product is gone. That clears the bar for another conversation. It does not clear a venture underwriting: funding, headcount, revenue, and valuation are Unknown unless a source in this pack states them."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "name": "Company website",
+        "url": "https://www.wiz.io/",
+        "retrievedAt": "2026-11-09T15:02:34.008Z"
+      },
+      {
+        "name": "Google News RSS",
+        "url": "https://news.google.com/rss/search?q=%22wiz.io%22&hl=en-US&gl=US&ceid=US:en",
+        "retrievedAt": "2026-11-09T15:02:34.008Z"
+      }
+    ],
+    "generationMode": "sample",
+    "generationNote": "Checked-in sample captured from the cited sources. Not a live fetch. The stance comes from the written rubric, not from a model.",
+    "disclaimer": "Deal Brief is a portfolio screening tool, not an investment adviser. A memo is not a recommendation to buy, sell, or hold any security. Figures are only as good as the cited sources, and missing data stays Unknown.",
+    "markdown": "# Deal Brief — Wiz\n\nStartup / VC screening memo · 9 Nov 2026\n\n**Stance: Diligence further** · conviction medium\n\nThe site is specific enough to say what the company claims to sell, and nothing sourced here shows that the product is gone. That clears the bar for another conversation. It does not clear a venture underwriting: funding, headcount, revenue, and valuation are Unknown unless a source in this pack states them.\n\n_Checked-in sample captured from the cited sources. Not a live fetch. The stance comes from the written rubric, not from a model._\n\n## What they do and why it might matter now\n\nFrom the fetched site: Wiz connects code, cloud, and runtime into one agentic cybersecurity platform. Prevent risk, detect threats, and start secure – across every cloud and AI layer. Wiz connects code, cloud, and runtime into a unified context graph. Context enables teams to use AI to fix exploitable risks at the source, stop attacks in real-time, and start secure from the IDE – automatically and accurately.\n\nWhy it might matter is only as strong as that description. Independent evidence that the problem is urgent, or that buyers are switching, is not in this pack.\n\n> Trusted by more than 65% of Fortune 100 companies\n\n_Company claim, quoted from the site. Not independently verified._\n\n## Market / why now\n\nMarket size, growth, and share are Unknown. This pack has no third-party market study, and the company site is not treated as one.\n\nIndependent press coverage in this pull is thin. The headlines that came back are from the company site itself, so they are not outside coverage.\n\nRecent headlines:\n\n- wiz.io — PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io (Wed, 21 Oct 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5\n- wiz.io — “Black October” for AI Developer Platforms - wiz.io (Fri, 30 Oct 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMickFVX3lxTE5Kb3h4anBjMUtJWnU4R0JiOTRxZUIwUDhTLU9idzNsbldBVHNrTDN0WjA5eVpsZzJ4ZlRBVUZ2d0J0SU5LRWZzT1o0LS0yNlo0V2hBbXJYNUFMNXVWbm00VDZXTURfWE1QVDdBZDRCaVd5dw?oc=5\n- wiz.io — Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability - wiz.io (Sun, 25 Oct 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMiakFVX3lxTE05WEEtSGg3bUQ5dXJoNjJQSE55QlZueVUzQnJlbjVQMENOM2FzUFMxUnNHckVqMnVaSG9XNnNVYms0cnlzVFo4VC1ac1FXREVrUVVTZTNiMDVYaExiazh3MVM2WVNoZ1F6dXc?oc=5\n- wiz.io — Scan for Good: Using AI to discover and fix high-priority exposures across public services and critical infrastructure - wiz.io (Thu, 24 Sep 2026 07:00:00 GMT). https://news.google.com/rss/articles/CBMia0FVX3lxTE84OVNtYmw3d2V4UnZMODlpRzZIWV90M3JUSXNOZmc5aG5ITDdhSUlkMWNJS2pQSndBQklDZWp1bzVwbmRnUmVkMnF3b3doNUQ2NU5HeHJKcEdPbEZvbXRlUjVGOEp1RTh6YWdj?oc=5\n\n## Traction, team, funding\n\nOnly sourced items would be filled in. Nothing below is inferred from the company name or from user notes.\n\n- Traction that the site itself claims is quoted in the first section and labeled as a company claim. It is not booked here as revenue, logos verified by us, or retention.\n- Team: Unknown.\n- Funding: Unknown. Headline dollar figures, if any appear below, are not recorded as a round.\n- Headcount: Unknown.\n- Valuation: Unknown.\n\n## How we'd underwrite\n\nDiligence further means the product description is specific enough to keep reading. It does not mean the investment works. These are the statements that would have to be true, and none of them is established by this pack:\n\n1. A buyer pays for the product as a system they keep, not as a pilot that expires. Retention and expansion are Unknown here.\n\n2. The company’s books, which we do not have, show a gross margin and a cash pattern that can support the story the site tells.\n\n3. The competitive alternative is something a customer would actually replace. The site’s comparison, if it makes one, is a claim.\n\n4. Any price for the round is on a document we have not seen. Until then the price is Unknown, and Unknown is not a bargain.\n\n## Diligence questions / key risks\n\nQuestions, not findings. Where the pack is silent, the answer is Unknown.\n\n- What is revenue, growth, and the definition of that revenue, from the company’s own books?\n- Which of the site’s customer claims are dollars, and which are logos or marketing copy?\n- Who are the founders and the operating owners? Team is Unknown in this pack.\n- What were the last round’s amount, date, and price? Funding and valuation are Unknown unless a primary source states them.\n- What would make the product unnecessary if a platform vendor bundled the same control?\n- Independent press coverage in this pull is thin. The headlines that came back are from the company site itself, so they are not outside coverage.\n- User notes are not answers to these questions.\n\n## Unknowns\n\nThese items stay Unknown on purpose. A headline that mentions a price or a round is not promoted into this list. User notes are not promoted into this list.\n\n- Revenue, growth rate, and retention: Unknown.\n- Funding rounds, investors, and amounts: Unknown.\n- Valuation: Unknown.\n- Headcount: Unknown.\n- Ownership and cap table: Unknown.\n- Gross margin, burn, and runway: Unknown.\n\n## Bottom line\n\nDiligence further, medium conviction. The site is specific enough to say what the company claims to sell, and nothing sourced here shows that the product is gone. That clears the bar for another conversation. It does not clear a venture underwriting: funding, headcount, revenue, and valuation are Unknown unless a source in this pack states them.\n\n## Sources\n\n- Company website: https://www.wiz.io/ (retrieved 2026-11-09T15:02:34.008Z)\n- Google News RSS: https://news.google.com/rss/search?q=%22wiz.io%22&hl=en-US&gl=US&ceid=US:en (retrieved 2026-11-09T15:02:34.008Z)\n\n## Disclaimer\n\nDeal Brief is a portfolio screening tool, not an investment adviser. A memo is not a recommendation to buy, sell, or hold any security. Figures are only as good as the cited sources, and missing data stays Unknown.\n"
+  },
+  "context": {
+    "track": "startup",
+    "query": "Wiz",
+    "websiteUrl": "https://www.wiz.io/",
+    "siteTitle": "Wiz: AI Cybersecurity for All Your Cloud and AI Applications",
+    "siteExcerpt": "Wiz connects code, cloud, and runtime into one agentic cybersecurity platform. Prevent risk, detect threats, and start secure – across every cloud and AI layer. Wiz connects code, cloud, and runtime into a unified context graph. Context enables teams to use AI to fix exploitable risks at the source, stop attacks in real-time, and start secure from the IDE – automatically and accurately.",
+    "siteQuotes": [
+      "Trusted by more than 65% of Fortune 100 companies"
+    ],
+    "headlines": [
+      {
+        "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
+        "source": "wiz.io",
+        "published": "Wed, 21 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "“Black October” for AI Developer Platforms - wiz.io",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kb3h4anBjMUtJWnU4R0JiOTRxZUIwUDhTLU9idzNsbldBVHNrTDN0WjA5eVpsZzJ4ZlRBVUZ2d0J0SU5LRWZzT1o0LS0yNlo0V2hBbXJYNUFMNXVWbm00VDZXTURfWE1QVDdBZDRCaVd5dw?oc=5",
+        "source": "wiz.io",
+        "published": "Fri, 30 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability - wiz.io",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05WEEtSGg3bUQ5dXJoNjJQSE55QlZueVUzQnJlbjVQMENOM2FzUFMxUnNHckVqMnVaSG9XNnNVYms0cnlzVFo4VC1ac1FXREVrUVVTZTNiMDVYaExiazh3MVM2WVNoZ1F6dXc?oc=5",
+        "source": "wiz.io",
+        "published": "Sun, 25 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Scan for Good: Using AI to discover and fix high-priority exposures across public services and critical infrastructure - wiz.io",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84OVNtYmw3d2V4UnZMODlpRzZIWV90M3JUSXNOZmc5aG5ITDdhSUlkMWNJS2pQSndBQklDZWp1bzVwbmRnUmVkMnF3b3doNUQ2NU5HeHJKcEdPbEZvbXRlUjVGOEp1RTh6YWdj?oc=5",
+        "source": "wiz.io",
+        "published": "Thu, 24 Sep 2026 07:00:00 GMT"
+      }
+    ],
+    "coverageNote": "Independent press coverage in this pull is thin. The headlines that came back are from the company site itself, so they are not outside coverage.",
+    "errors": [],
+    "sources": [
+      {
+        "name": "Company website",
+        "url": "https://www.wiz.io/",
+        "retrievedAt": "2026-11-09T15:02:34.008Z"
+      },
+      {
+        "name": "Google News RSS",
+        "url": "https://news.google.com/rss/search?q=%22wiz.io%22&hl=en-US&gl=US&ceid=US:en",
+        "retrievedAt": "2026-11-09T15:02:34.008Z"
+      }
+    ]
+  }
+}

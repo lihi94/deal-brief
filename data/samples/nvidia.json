@@ -1,0 +1,1509 @@
+{
+  "memo": {
+    "id": "nvda-2026-11-09-c1a87901",
+    "track": "public",
+    "subject": "NVIDIA Corporation",
+    "ticker": "NVDA",
+    "generatedAt": "2026-11-09T15:02:33.344Z",
+    "stance": "Watch",
+    "conviction": "high",
+    "stanceRationale": "The business is identifiable and the blocking facts are measured, so this is Watch rather than a data gap. Attractive is refused because: Market cap / last-fiscal revenue is 19.87×, above the 15× Attractive ceiling. One failed gate is enough. The rubric does not average a strong gross margin or a low multiple back into Attractive.",
+    "drivers": [
+      "Market cap / last-fiscal revenue is 19.87×, above the 15× Attractive ceiling."
+    ],
+    "sections": [
+      {
+        "id": "snapshot",
+        "heading": "Snapshot",
+        "paragraphs": [
+          "Every populated cell below is copied from a fetched source. Anything the source pack does not contain is Unknown. Sell-side targets and recommendation strings are ignored.",
+          "The quote and filing requests that this memo relies on returned data."
+        ],
+        "table": {
+          "caption": "Snapshot. Empty means Unknown, not zero.",
+          "columns": [
+            "Field",
+            "Value",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Company",
+              "NVIDIA Corporation",
+              "Yahoo Finance or SEC submissions"
+            ],
+            [
+              "Ticker",
+              "NVDA",
+              "Query / SEC company tickers"
+            ],
+            [
+              "Exchange",
+              "NasdaqGS",
+              "Yahoo Finance or SEC submissions"
+            ],
+            [
+              "Sector",
+              "Technology",
+              "Yahoo Finance profile"
+            ],
+            [
+              "Industry",
+              "Semiconductors",
+              "Yahoo Finance profile"
+            ],
+            [
+              "SIC",
+              "3674 Semiconductors & Related Devices",
+              "SEC submissions"
+            ],
+            [
+              "Last price",
+              "$177.68 USD",
+              "Yahoo Finance"
+            ],
+            [
+              "Date of price",
+              "9 Nov 2026, 10:02 America/New_York",
+              "Yahoo Finance regularMarketTime"
+            ],
+            [
+              "Market cap",
+              "$4,290,318,172,160 ($4.29 trillion)",
+              "Yahoo Finance quoteSummary"
+            ],
+            [
+              "Employees",
+              "42,000",
+              "Yahoo Finance profile, not a headcount we counted"
+            ],
+            [
+              "Latest fiscal year used",
+              "Year ended 25 Jan 2026",
+              "10-K, filed 25 Feb 2026"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "business",
+        "heading": "Business",
+        "paragraphs": [
+          "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. (Yahoo Finance company profile.)",
+          "That paragraph is a profile, not diligence. It tells me the reported line of business. It does not tell me whether the economics clear the rubric."
+        ]
+      },
+      {
+        "id": "thesis",
+        "heading": "Investment thesis",
+        "paragraphs": [
+          "These points use only figures and descriptions in the source pack, plus the written rubric. They are not a forecast."
+        ],
+        "numbered": [
+          "For the year ended 25 Jan 2026, revenue was $215,938,000,000 ($215.94 billion) and operating margin was 60.4%. Gross margin was 71.1%. A year earlier, the year ended 26 Jan 2025, operating margin was 62.4%. Source: SEC 10-K, concept Revenues, filed 25 Feb 2026.",
+          "Operating cash flow for the year ended 25 Jan 2026 was $102,718,000,000 ($102.72 billion). Cash generation shows up on the cash flow statement, which is a separate fact from operating margin.",
+          "Market cap of $4,290,318,172,160 ($4.29 trillion) (9 Nov 2026, 10:02 America/New_York) divided by revenue for the year ended 25 Jan 2026 is 19.87×. The Attractive ceiling in the rubric is 15× last-fiscal revenue. This is not a DCF.",
+          "Book equity at 25 Jan 2026 was $157,293,000,000 ($157.29 billion) on Form 10-K. Positive book equity clears that particular gate. It does not, by itself, make the stock Attractive."
+        ]
+      },
+      {
+        "id": "change-mind",
+        "heading": "What would change my mind",
+        "paragraphs": [
+          "I would call this Attractive only when every gate is true at the same time: operating margin at least 8.0%, positive book equity, operating cash flow that is not negative when the filing reports it, and market cap at or below 15× last-fiscal revenue. Clearing one gate does not offset a failed one."
+        ],
+        "numbered": [
+          "The revenue multiple is 19.87×. It has to be 15× or below. I will not invent a DCF to talk past that ceiling.",
+          "User commentary and sell-side targets would not change this. They are not in the source pack."
+        ]
+      },
+      {
+        "id": "financials",
+        "heading": "Financial highlights",
+        "paragraphs": [
+          "Annual figures are from SEC company facts, limited to full-year 10-K, 20-F, or 40-F facts. Margins are calculated from those rows and labeled as calculated. A cell is Unknown when that concept was not in the filing facts for that year.",
+          "Filing index for the latest revenue fact: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.html."
+        ],
+        "table": {
+          "caption": "Fiscal year facts from SEC company facts. Not a forecast.",
+          "columns": [
+            "Line",
+            "Year ended 28 Jan 2024",
+            "Year ended 26 Jan 2025",
+            "Year ended 25 Jan 2026"
+          ],
+          "rows": [
+            [
+              "Revenue",
+              "$60,922,000,000",
+              "$130,497,000,000",
+              "$215,938,000,000"
+            ],
+            [
+              "Gross profit",
+              "$44,301,000,000",
+              "$97,858,000,000",
+              "$153,463,000,000"
+            ],
+            [
+              "Operating income",
+              "$32,972,000,000",
+              "$81,453,000,000",
+              "$130,387,000,000"
+            ],
+            [
+              "Net income",
+              "$29,760,000,000",
+              "$72,880,000,000",
+              "$120,067,000,000"
+            ],
+            [
+              "Operating cash flow",
+              "$28,090,000,000",
+              "$64,089,000,000",
+              "$102,718,000,000"
+            ],
+            [
+              "Stockholders' equity",
+              "$42,978,000,000",
+              "$79,327,000,000",
+              "$157,293,000,000"
+            ],
+            [
+              "Operating margin (calculated)",
+              "54.1%",
+              "62.4%",
+              "60.4%"
+            ],
+            [
+              "Gross margin (calculated)",
+              "72.7%",
+              "75.0%",
+              "71.1%"
+            ]
+          ]
+        },
+        "footer": [
+          "Trailing quote statistics from Yahoo Finance, which are not the fiscal-year rows above and are not a forecast: trailing revenue $302,970,011,648 ($302.97 billion); trailing gross margin 74.7%; trailing operating margin 66.2%; trailing profit margin 63.7%; trailing operating cash flow $134,359,998,464 ($134.36 billion); trailing free cash flow $41,809,874,944 ($41.81 billion); cash $62,469,001,216 ($62.47 billion); total debt $38,860,001,280 ($38.86 billion); trailing EPS 7.91 USD. Yahoo’s most recent quarter date on the statistic is 26 Jul 2026."
+        ]
+      },
+      {
+        "id": "valuation",
+        "heading": "Valuation context",
+        "paragraphs": [
+          "Market cap $4,290,318,172,160 ($4.29 trillion) divided by revenue of $215,938,000,000 ($215.94 billion) for the year ended 25 Jan 2026 is 19.87×. The rubric’s Attractive ceiling is 15×. This print is above that ceiling, so valuation alone refuses Attractive.",
+          "Yahoo Finance also reports enterprise value of $4,474,414,825,472 ($4.47 trillion). Divided by the same fiscal revenue, that is 20.72×. Enterprise value is a quote statistic, not a cash-flow model.",
+          "Yahoo Finance reports book value of 9.48 per share. The last price is $177.68, which is 18.74× that book value. Both inputs are quote statistics.",
+          "No discounted-cash-flow value is computed. A missing forecast stays missing."
+        ]
+      },
+      {
+        "id": "risks",
+        "heading": "Key risks",
+        "paragraphs": [
+          "Recent headlines:"
+        ],
+        "bullets": [
+          "Market cap / last-fiscal revenue is 19.87×, above the 15× Attractive ceiling.",
+          "Headlines below are titles only. Article bodies were not fetched, and a headline is not a finding.",
+          "This is a screen of reported figures. It is not a view on management, competitive position, or the next quarter.",
+          "Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly (Mon, 09 Nov 2026 14:42:35 +0000). https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html?.tsrc=rss",
+          "Did Trump know about Jensen Huang? What Congress will be looking at (Mon, 09 Nov 2026 14:38:58 +0000). https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss",
+          "Nvidia stock slumps amid board investigation into CEO Jensen Huang (Mon, 09 Nov 2026 14:46:46 +0000). https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/?.tsrc=rss",
+          "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage) (Mon, 09 Nov 2026 14:41:49 +0000). https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss"
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "heading": "Bottom line",
+        "paragraphs": [
+          "Watch, high conviction. The filing is strong on the reported operating margin (60.4%) and book equity is positive. Market cap / last-fiscal revenue is 19.87×, above the 15× ceiling, so this is not Attractive. No DCF is being used to bridge that gap."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "name": "SEC company tickers",
+        "url": "https://www.sec.gov/files/company_tickers.json",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "Yahoo Finance quoteSummary",
+        "url": "https://query2.finance.yahoo.com/v10/finance/quoteSummary/NVDA?modules=price,summaryProfile,financialData,defaultKeyStatistics",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "SEC EDGAR submissions",
+        "url": "https://data.sec.gov/submissions/CIK0001045810.json",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "SEC EDGAR company facts",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "Yahoo Finance headlines",
+        "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA&region=US&lang=en-US",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "Google News RSS",
+        "url": "https://news.google.com/rss/search?q=%22NVIDIA%20Corporation%22%20OR%20NVDA&hl=en-US&gl=US&ceid=US:en",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "SEC filing index",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.html",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      }
+    ],
+    "generationMode": "sample",
+    "generationNote": "Checked-in sample captured from the cited sources. Not a live fetch. The stance comes from the written rubric, not from a model.",
+    "disclaimer": "Deal Brief is a portfolio screening tool, not an investment adviser. A memo is not a recommendation to buy, sell, or hold any security. Figures are only as good as the cited sources, and missing data stays Unknown.",
+    "markdown": "# Deal Brief — NVIDIA Corporation (NVDA)\n\nPublic-company screening memo · 9 Nov 2026\n\n**Stance: Watch** · conviction high\n\nThe business is identifiable and the blocking facts are measured, so this is Watch rather than a data gap. Attractive is refused because: Market cap / last-fiscal revenue is 19.87×, above the 15× Attractive ceiling. One failed gate is enough. The rubric does not average a strong gross margin or a low multiple back into Attractive.\n\n_Checked-in sample captured from the cited sources. Not a live fetch. The stance comes from the written rubric, not from a model._\n\n## Snapshot\n\nEvery populated cell below is copied from a fetched source. Anything the source pack does not contain is Unknown. Sell-side targets and recommendation strings are ignored.\n\nThe quote and filing requests that this memo relies on returned data.\n\n_Snapshot. Empty means Unknown, not zero._\n\n| Field | Value | Source |\n| --- | --- | --- |\n| Company | NVIDIA Corporation | Yahoo Finance or SEC submissions |\n| Ticker | NVDA | Query / SEC company tickers |\n| Exchange | NasdaqGS | Yahoo Finance or SEC submissions |\n| Sector | Technology | Yahoo Finance profile |\n| Industry | Semiconductors | Yahoo Finance profile |\n| SIC | 3674 Semiconductors & Related Devices | SEC submissions |\n| Last price | $177.68 USD | Yahoo Finance |\n| Date of price | 9 Nov 2026, 10:02 America/New_York | Yahoo Finance regularMarketTime |\n| Market cap | $4,290,318,172,160 ($4.29 trillion) | Yahoo Finance quoteSummary |\n| Employees | 42,000 | Yahoo Finance profile, not a headcount we counted |\n| Latest fiscal year used | Year ended 25 Jan 2026 | 10-K, filed 25 Feb 2026 |\n\n## Business\n\nNVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. (Yahoo Finance company profile.)\n\nThat paragraph is a profile, not diligence. It tells me the reported line of business. It does not tell me whether the economics clear the rubric.\n\n## Investment thesis\n\nThese points use only figures and descriptions in the source pack, plus the written rubric. They are not a forecast.\n\n1. For the year ended 25 Jan 2026, revenue was $215,938,000,000 ($215.94 billion) and operating margin was 60.4%. Gross margin was 71.1%. A year earlier, the year ended 26 Jan 2025, operating margin was 62.4%. Source: SEC 10-K, concept Revenues, filed 25 Feb 2026.\n\n2. Operating cash flow for the year ended 25 Jan 2026 was $102,718,000,000 ($102.72 billion). Cash generation shows up on the cash flow statement, which is a separate fact from operating margin.\n\n3. Market cap of $4,290,318,172,160 ($4.29 trillion) (9 Nov 2026, 10:02 America/New_York) divided by revenue for the year ended 25 Jan 2026 is 19.87×. The Attractive ceiling in the rubric is 15× last-fiscal revenue. This is not a DCF.\n\n4. Book equity at 25 Jan 2026 was $157,293,000,000 ($157.29 billion) on Form 10-K. Positive book equity clears that particular gate. It does not, by itself, make the stock Attractive.\n\n## What would change my mind\n\nI would call this Attractive only when every gate is true at the same time: operating margin at least 8.0%, positive book equity, operating cash flow that is not negative when the filing reports it, and market cap at or below 15× last-fiscal revenue. Clearing one gate does not offset a failed one.\n\n1. The revenue multiple is 19.87×. It has to be 15× or below. I will not invent a DCF to talk past that ceiling.\n\n2. User commentary and sell-side targets would not change this. They are not in the source pack.\n\n## Financial highlights\n\nAnnual figures are from SEC company facts, limited to full-year 10-K, 20-F, or 40-F facts. Margins are calculated from those rows and labeled as calculated. A cell is Unknown when that concept was not in the filing facts for that year.\n\nFiling index for the latest revenue fact: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.html.\n\n_Fiscal year facts from SEC company facts. Not a forecast._\n\n| Line | Year ended 28 Jan 2024 | Year ended 26 Jan 2025 | Year ended 25 Jan 2026 |\n| --- | --- | --- | --- |\n| Revenue | $60,922,000,000 | $130,497,000,000 | $215,938,000,000 |\n| Gross profit | $44,301,000,000 | $97,858,000,000 | $153,463,000,000 |\n| Operating income | $32,972,000,000 | $81,453,000,000 | $130,387,000,000 |\n| Net income | $29,760,000,000 | $72,880,000,000 | $120,067,000,000 |\n| Operating cash flow | $28,090,000,000 | $64,089,000,000 | $102,718,000,000 |\n| Stockholders' equity | $42,978,000,000 | $79,327,000,000 | $157,293,000,000 |\n| Operating margin (calculated) | 54.1% | 62.4% | 60.4% |\n| Gross margin (calculated) | 72.7% | 75.0% | 71.1% |\n\nTrailing quote statistics from Yahoo Finance, which are not the fiscal-year rows above and are not a forecast: trailing revenue $302,970,011,648 ($302.97 billion); trailing gross margin 74.7%; trailing operating margin 66.2%; trailing profit margin 63.7%; trailing operating cash flow $134,359,998,464 ($134.36 billion); trailing free cash flow $41,809,874,944 ($41.81 billion); cash $62,469,001,216 ($62.47 billion); total debt $38,860,001,280 ($38.86 billion); trailing EPS 7.91 USD. Yahoo’s most recent quarter date on the statistic is 26 Jul 2026.\n\n## Valuation context\n\nMarket cap $4,290,318,172,160 ($4.29 trillion) divided by revenue of $215,938,000,000 ($215.94 billion) for the year ended 25 Jan 2026 is 19.87×. The rubric’s Attractive ceiling is 15×. This print is above that ceiling, so valuation alone refuses Attractive.\n\nYahoo Finance also reports enterprise value of $4,474,414,825,472 ($4.47 trillion). Divided by the same fiscal revenue, that is 20.72×. Enterprise value is a quote statistic, not a cash-flow model.\n\nYahoo Finance reports book value of 9.48 per share. The last price is $177.68, which is 18.74× that book value. Both inputs are quote statistics.\n\nNo discounted-cash-flow value is computed. A missing forecast stays missing.\n\n## Key risks\n\nRecent headlines:\n\n- Market cap / last-fiscal revenue is 19.87×, above the 15× Attractive ceiling.\n- Headlines below are titles only. Article bodies were not fetched, and a headline is not a finding.\n- This is a screen of reported figures. It is not a view on management, competitive position, or the next quarter.\n- Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly (Mon, 09 Nov 2026 14:42:35 +0000). https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html?.tsrc=rss\n- Did Trump know about Jensen Huang? What Congress will be looking at (Mon, 09 Nov 2026 14:38:58 +0000). https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss\n- Nvidia stock slumps amid board investigation into CEO Jensen Huang (Mon, 09 Nov 2026 14:46:46 +0000). https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/?.tsrc=rss\n- Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage) (Mon, 09 Nov 2026 14:41:49 +0000). https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss\n\n## Bottom line\n\nWatch, high conviction. The filing is strong on the reported operating margin (60.4%) and book equity is positive. Market cap / last-fiscal revenue is 19.87×, above the 15× ceiling, so this is not Attractive. No DCF is being used to bridge that gap.\n\n## Sources\n\n- SEC company tickers: https://www.sec.gov/files/company_tickers.json (retrieved 2026-11-09T15:02:33.344Z)\n- Yahoo Finance quoteSummary: https://query2.finance.yahoo.com/v10/finance/quoteSummary/NVDA?modules=price,summaryProfile,financialData,defaultKeyStatistics (retrieved 2026-11-09T15:02:33.344Z)\n- SEC EDGAR submissions: https://data.sec.gov/submissions/CIK0001045810.json (retrieved 2026-11-09T15:02:33.344Z)\n- SEC EDGAR company facts: https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json (retrieved 2026-11-09T15:02:33.344Z)\n- Yahoo Finance headlines: https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA&region=US&lang=en-US (retrieved 2026-11-09T15:02:33.344Z)\n- Google News RSS: https://news.google.com/rss/search?q=%22NVIDIA%20Corporation%22%20OR%20NVDA&hl=en-US&gl=US&ceid=US:en (retrieved 2026-11-09T15:02:33.344Z)\n- SEC filing index: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.html (retrieved 2026-11-09T15:02:33.344Z)\n\n## Disclaimer\n\nDeal Brief is a portfolio screening tool, not an investment adviser. A memo is not a recommendation to buy, sell, or hold any security. Figures are only as good as the cited sources, and missing data stays Unknown.\n"
+  },
+  "context": {
+    "track": "public",
+    "query": "NVDA",
+    "resolved": true,
+    "companyName": "NVIDIA Corporation",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "exchange": "NasdaqGS",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "sic": "3674 Semiconductors & Related Devices",
+    "website": "https://www.nvidia.com",
+    "businessSummary": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. It has a collaboration with Cisco to develop Ultra-Dense Small Form Factor Pluggable (USFP), a high-density optical module pluggable transceiver. It has a collaboration with ChipAgents to develop Build-A-Chip-Bench, a benchmark for AI agents carrying chip design tasks and The Company has a strategic alliance with MediaTek to build the next generations of AI computing platforms. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+    "employees": 42000,
+    "currency": "USD",
+    "price": 177.675,
+    "priceTime": "2026-11-09T15:02:33.000Z",
+    "marketCap": 4290318172160,
+    "enterpriseValue": 4474414825472,
+    "sharesOutstanding": 24147000000,
+    "bookValuePerShare": 9.483,
+    "fiscal": {
+      "revenue": [
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2008-01-27",
+          "filed": "2010-03-18",
+          "form": "10-K",
+          "value": 4097860000,
+          "accn": "0001045810-10-000006",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2009-01-25",
+          "filed": "2011-03-16",
+          "form": "10-K",
+          "value": 3424859000,
+          "accn": "0001045810-11-000015",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2010-01-31",
+          "filed": "2012-03-13",
+          "form": "10-K",
+          "value": 3326445000,
+          "accn": "0001045810-12-000013",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2011-01-30",
+          "filed": "2013-03-12",
+          "form": "10-K",
+          "value": 3543309000,
+          "accn": "0001045810-13-000008",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2012-01-29",
+          "filed": "2014-03-13",
+          "form": "10-K",
+          "value": 3997930000,
+          "accn": "0001045810-14-000030",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2013-01-27",
+          "filed": "2015-03-12",
+          "form": "10-K",
+          "value": 4280159000,
+          "accn": "0001045810-15-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2014-01-26",
+          "filed": "2016-03-17",
+          "form": "10-K",
+          "value": 4130000000,
+          "accn": "0001045810-16-000205",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2015-01-25",
+          "filed": "2017-03-01",
+          "form": "10-K",
+          "value": 4682000000,
+          "accn": "0001045810-17-000027",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2016-01-31",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 5010000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2017-01-29",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 6910000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2018-01-28",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 9714000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2020-01-26",
+          "filed": "2022-03-18",
+          "form": "10-K",
+          "value": 10918000000,
+          "accn": "0001045810-22-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2021-01-31",
+          "filed": "2023-02-24",
+          "form": "10-K",
+          "value": 16675000000,
+          "accn": "0001045810-23-000017",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2022-01-30",
+          "filed": "2024-02-21",
+          "form": "10-K",
+          "value": 26914000000,
+          "accn": "0001045810-24-000029",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2023-01-29",
+          "filed": "2025-02-26",
+          "form": "10-K",
+          "value": 26974000000,
+          "accn": "0001045810-25-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2024-01-28",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 60922000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2025-01-26",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 130497000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "Revenues",
+          "taxonomy": "us-gaap",
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 215938000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        }
+      ],
+      "grossProfit": [
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2008-01-27",
+          "filed": "2010-03-18",
+          "form": "10-K",
+          "value": 1869280000,
+          "accn": "0001045810-10-000006",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2009-01-25",
+          "filed": "2011-03-16",
+          "form": "10-K",
+          "value": 1174269000,
+          "accn": "0001045810-11-000015",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2010-01-31",
+          "filed": "2012-03-13",
+          "form": "10-K",
+          "value": 1176923000,
+          "accn": "0001045810-12-000013",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2011-01-30",
+          "filed": "2013-03-12",
+          "form": "10-K",
+          "value": 1409090000,
+          "accn": "0001045810-13-000008",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2012-01-29",
+          "filed": "2014-03-13",
+          "form": "10-K",
+          "value": 2056517000,
+          "accn": "0001045810-14-000030",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2013-01-27",
+          "filed": "2015-03-12",
+          "form": "10-K",
+          "value": 2226343000,
+          "accn": "0001045810-15-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2014-01-26",
+          "filed": "2016-03-17",
+          "form": "10-K",
+          "value": 2268000000,
+          "accn": "0001045810-16-000205",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2015-01-25",
+          "filed": "2017-03-01",
+          "form": "10-K",
+          "value": 2599000000,
+          "accn": "0001045810-17-000027",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2016-01-31",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 2811000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2017-01-29",
+          "filed": "2019-02-21",
+          "form": "10-K",
+          "value": 4063000000,
+          "accn": "0001045810-19-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2018-01-28",
+          "filed": "2020-02-20",
+          "form": "10-K",
+          "value": 5822000000,
+          "accn": "0001045810-20-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2019-01-27",
+          "filed": "2021-02-26",
+          "form": "10-K",
+          "value": 7171000000,
+          "accn": "0001045810-21-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2020-01-26",
+          "filed": "2022-03-18",
+          "form": "10-K",
+          "value": 6768000000,
+          "accn": "0001045810-22-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2021-01-31",
+          "filed": "2023-02-24",
+          "form": "10-K",
+          "value": 10396000000,
+          "accn": "0001045810-23-000017",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2022-01-30",
+          "filed": "2024-02-21",
+          "form": "10-K",
+          "value": 17475000000,
+          "accn": "0001045810-24-000029",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2023-01-29",
+          "filed": "2025-02-26",
+          "form": "10-K",
+          "value": 15356000000,
+          "accn": "0001045810-25-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2024-01-28",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 44301000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2025-01-26",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 97858000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "GrossProfit",
+          "taxonomy": "us-gaap",
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 153463000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        }
+      ],
+      "operatingIncome": [
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2008-01-27",
+          "filed": "2010-03-18",
+          "form": "10-K",
+          "value": 836346000,
+          "accn": "0001045810-10-000006",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2009-01-25",
+          "filed": "2011-03-16",
+          "form": "10-K",
+          "value": -70700000,
+          "accn": "0001045810-11-000015",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2010-01-31",
+          "filed": "2012-03-13",
+          "form": "10-K",
+          "value": -98945000,
+          "accn": "0001045810-12-000013",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2011-01-30",
+          "filed": "2013-03-12",
+          "form": "10-K",
+          "value": 255747000,
+          "accn": "0001045810-13-000008",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2012-01-29",
+          "filed": "2014-03-13",
+          "form": "10-K",
+          "value": 648299000,
+          "accn": "0001045810-14-000030",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2013-01-27",
+          "filed": "2015-03-12",
+          "form": "10-K",
+          "value": 648239000,
+          "accn": "0001045810-15-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2014-01-26",
+          "filed": "2016-03-17",
+          "form": "10-K",
+          "value": 496000000,
+          "accn": "0001045810-16-000205",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2015-01-25",
+          "filed": "2017-03-01",
+          "form": "10-K",
+          "value": 759000000,
+          "accn": "0001045810-17-000027",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2016-01-31",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 747000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2017-01-29",
+          "filed": "2019-02-21",
+          "form": "10-K",
+          "value": 1934000000,
+          "accn": "0001045810-19-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2018-01-28",
+          "filed": "2020-02-20",
+          "form": "10-K",
+          "value": 3210000000,
+          "accn": "0001045810-20-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2019-01-27",
+          "filed": "2021-02-26",
+          "form": "10-K",
+          "value": 3804000000,
+          "accn": "0001045810-21-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2020-01-26",
+          "filed": "2022-03-18",
+          "form": "10-K",
+          "value": 2846000000,
+          "accn": "0001045810-22-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2021-01-31",
+          "filed": "2023-02-24",
+          "form": "10-K",
+          "value": 4532000000,
+          "accn": "0001045810-23-000017",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2022-01-30",
+          "filed": "2024-02-21",
+          "form": "10-K",
+          "value": 10041000000,
+          "accn": "0001045810-24-000029",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2023-01-29",
+          "filed": "2025-02-26",
+          "form": "10-K",
+          "value": 4224000000,
+          "accn": "0001045810-25-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2024-01-28",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 32972000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2025-01-26",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 81453000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "OperatingIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 130387000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        }
+      ],
+      "netIncome": [
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2008-01-27",
+          "filed": "2010-03-18",
+          "form": "10-K",
+          "value": 797645000,
+          "accn": "0001045810-10-000006",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2009-01-25",
+          "filed": "2011-03-16",
+          "form": "10-K",
+          "value": -30041000,
+          "accn": "0001045810-11-000015",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2010-01-31",
+          "filed": "2012-03-13",
+          "form": "10-K",
+          "value": -67987000,
+          "accn": "0001045810-12-000013",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2011-01-30",
+          "filed": "2013-03-12",
+          "form": "10-K",
+          "value": 253146000,
+          "accn": "0001045810-13-000008",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2012-01-29",
+          "filed": "2014-03-13",
+          "form": "10-K",
+          "value": 581090000,
+          "accn": "0001045810-14-000030",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2013-01-27",
+          "filed": "2015-03-12",
+          "form": "10-K",
+          "value": 562536000,
+          "accn": "0001045810-15-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2014-01-26",
+          "filed": "2016-03-17",
+          "form": "10-K",
+          "value": 440000000,
+          "accn": "0001045810-16-000205",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2015-01-25",
+          "filed": "2017-03-01",
+          "form": "10-K",
+          "value": 631000000,
+          "accn": "0001045810-17-000027",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2016-01-31",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 614000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2017-01-29",
+          "filed": "2019-02-21",
+          "form": "10-K",
+          "value": 1666000000,
+          "accn": "0001045810-19-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2018-01-28",
+          "filed": "2020-02-20",
+          "form": "10-K",
+          "value": 3047000000,
+          "accn": "0001045810-20-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2019-01-27",
+          "filed": "2021-02-26",
+          "form": "10-K",
+          "value": 4141000000,
+          "accn": "0001045810-21-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2020-01-26",
+          "filed": "2022-03-18",
+          "form": "10-K",
+          "value": 2796000000,
+          "accn": "0001045810-22-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2021-01-31",
+          "filed": "2023-02-24",
+          "form": "10-K",
+          "value": 4332000000,
+          "accn": "0001045810-23-000017",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2022-01-30",
+          "filed": "2024-02-21",
+          "form": "10-K",
+          "value": 9752000000,
+          "accn": "0001045810-24-000029",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2023-01-29",
+          "filed": "2025-02-26",
+          "form": "10-K",
+          "value": 4368000000,
+          "accn": "0001045810-25-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2024-01-28",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 29760000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2025-01-26",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 72880000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetIncomeLoss",
+          "taxonomy": "us-gaap",
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 120067000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        }
+      ],
+      "operatingCashFlow": [
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2008-01-27",
+          "filed": "2010-03-18",
+          "form": "10-K",
+          "value": 1270196000,
+          "accn": "0001045810-10-000006",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2009-01-25",
+          "filed": "2011-03-16",
+          "form": "10-K",
+          "value": 249360000,
+          "accn": "0001045810-11-000015",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2010-01-31",
+          "filed": "2012-03-13",
+          "form": "10-K",
+          "value": 487807000,
+          "accn": "0001045810-12-000013",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2011-01-30",
+          "filed": "2013-03-12",
+          "form": "10-K",
+          "value": 675797000,
+          "accn": "0001045810-13-000008",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2012-01-29",
+          "filed": "2014-03-13",
+          "form": "10-K",
+          "value": 909156000,
+          "accn": "0001045810-14-000030",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2013-01-27",
+          "filed": "2015-03-12",
+          "form": "10-K",
+          "value": 824172000,
+          "accn": "0001045810-15-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2014-01-26",
+          "filed": "2016-03-17",
+          "form": "10-K",
+          "value": 835000000,
+          "accn": "0001045810-16-000205",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2015-01-25",
+          "filed": "2017-03-01",
+          "form": "10-K",
+          "value": 906000000,
+          "accn": "0001045810-17-000027",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2016-01-31",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 1175000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2017-01-29",
+          "filed": "2019-02-21",
+          "form": "10-K",
+          "value": 1672000000,
+          "accn": "0001045810-19-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2018-01-28",
+          "filed": "2020-02-20",
+          "form": "10-K",
+          "value": 3502000000,
+          "accn": "0001045810-20-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2019-01-27",
+          "filed": "2021-02-26",
+          "form": "10-K",
+          "value": 3743000000,
+          "accn": "0001045810-21-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2020-01-26",
+          "filed": "2022-03-18",
+          "form": "10-K",
+          "value": 4761000000,
+          "accn": "0001045810-22-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2021-01-31",
+          "filed": "2023-02-24",
+          "form": "10-K",
+          "value": 5822000000,
+          "accn": "0001045810-23-000017",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2022-01-30",
+          "filed": "2024-02-21",
+          "form": "10-K",
+          "value": 9108000000,
+          "accn": "0001045810-24-000029",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2023-01-29",
+          "filed": "2025-02-26",
+          "form": "10-K",
+          "value": 5641000000,
+          "accn": "0001045810-25-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2024-01-28",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 28090000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2025-01-26",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 64089000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "NetCashProvidedByUsedInOperatingActivities",
+          "taxonomy": "us-gaap",
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 102718000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        }
+      ],
+      "equity": [
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2007-01-28",
+          "filed": "2010-03-18",
+          "form": "10-K",
+          "value": 2006919000,
+          "accn": "0001045810-10-000006",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2008-01-27",
+          "filed": "2011-03-16",
+          "form": "10-K",
+          "value": 2617912000,
+          "accn": "0001045810-11-000015",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2009-01-25",
+          "filed": "2012-03-13",
+          "form": "10-K",
+          "value": 2394652000,
+          "accn": "0001045810-12-000013",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2010-01-31",
+          "filed": "2013-03-12",
+          "form": "10-K",
+          "value": 2665140000,
+          "accn": "0001045810-13-000008",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2011-01-30",
+          "filed": "2014-03-13",
+          "form": "10-K",
+          "value": 3181462000,
+          "accn": "0001045810-14-000030",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2012-01-29",
+          "filed": "2015-03-12",
+          "form": "10-K",
+          "value": 4145724000,
+          "accn": "0001045810-15-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2013-01-27",
+          "filed": "2016-03-17",
+          "form": "10-K",
+          "value": 4827000000,
+          "accn": "0001045810-16-000205",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2014-01-26",
+          "filed": "2017-03-01",
+          "form": "10-K",
+          "value": 4455000000,
+          "accn": "0001045810-17-000027",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2015-01-25",
+          "filed": "2018-02-28",
+          "form": "10-K",
+          "value": 4418000000,
+          "accn": "0001045810-18-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2016-01-31",
+          "filed": "2019-02-21",
+          "form": "10-K",
+          "value": 4469000000,
+          "accn": "0001045810-19-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2017-01-29",
+          "filed": "2020-02-20",
+          "form": "10-K",
+          "value": 5762000000,
+          "accn": "0001045810-20-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2018-01-28",
+          "filed": "2021-02-26",
+          "form": "10-K",
+          "value": 7471000000,
+          "accn": "0001045810-21-000010",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2019-01-27",
+          "filed": "2022-03-18",
+          "form": "10-K",
+          "value": 9342000000,
+          "accn": "0001045810-22-000036",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2020-01-26",
+          "filed": "2023-02-24",
+          "form": "10-K",
+          "value": 12204000000,
+          "accn": "0001045810-23-000017",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2021-01-31",
+          "filed": "2024-02-21",
+          "form": "10-K",
+          "value": 16893000000,
+          "accn": "0001045810-24-000029",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2022-01-30",
+          "filed": "2025-02-26",
+          "form": "10-K",
+          "value": 26612000000,
+          "accn": "0001045810-25-000023",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2023-01-29",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 22101000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2024-01-28",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 42978000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2025-01-26",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 79327000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        },
+        {
+          "concept": "StockholdersEquity",
+          "taxonomy": "us-gaap",
+          "end": "2026-01-25",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "value": 157293000000,
+          "accn": "0001045810-26-000021",
+          "unit": "USD"
+        }
+      ]
+    },
+    "trailing": {
+      "revenue": 302970011648,
+      "grossMargin": 0.74674004,
+      "operatingMargin": 0.66236997,
+      "profitMargin": 0.63663,
+      "operatingCashFlow": 134359998464,
+      "freeCashFlow": 41809874944,
+      "totalCash": 62469001216,
+      "totalDebt": 38860001280,
+      "trailingEps": 7.91,
+      "mostRecentQuarter": "2026-07-26"
+    },
+    "headlines": [
+      {
+        "title": "Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly",
+        "url": "https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html?.tsrc=rss",
+        "published": "Mon, 09 Nov 2026 14:42:35 +0000"
+      },
+      {
+        "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
+        "url": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss",
+        "published": "Mon, 09 Nov 2026 14:38:58 +0000"
+      },
+      {
+        "title": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/?.tsrc=rss",
+        "published": "Mon, 09 Nov 2026 14:46:46 +0000"
+      },
+      {
+        "title": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
+        "url": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+        "published": "Mon, 09 Nov 2026 14:41:49 +0000"
+      }
+    ],
+    "errors": [],
+    "sources": [
+      {
+        "name": "SEC company tickers",
+        "url": "https://www.sec.gov/files/company_tickers.json",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "Yahoo Finance quoteSummary",
+        "url": "https://query2.finance.yahoo.com/v10/finance/quoteSummary/NVDA?modules=price,summaryProfile,financialData,defaultKeyStatistics",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "SEC EDGAR submissions",
+        "url": "https://data.sec.gov/submissions/CIK0001045810.json",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "SEC EDGAR company facts",
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "Yahoo Finance headlines",
+        "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA&region=US&lang=en-US",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      },
+      {
+        "name": "Google News RSS",
+        "url": "https://news.google.com/rss/search?q=%22NVIDIA%20Corporation%22%20OR%20NVDA&hl=en-US&gl=US&ceid=US:en",
+        "retrievedAt": "2026-11-09T15:02:33.344Z"
+      }
+    ]
+  }
+}
